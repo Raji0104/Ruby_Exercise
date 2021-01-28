@@ -1,0 +1,3 @@
+hello,welcome to my file
+you can learn ruby in this
+check and all the exersice and do that
